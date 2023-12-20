@@ -34,21 +34,21 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![WhatsApp Image 2023-12-20 at 8 00 27 AM](https://github.com/Aaron-0111/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149347631/3b378839-cea2-42ca-96c2-bb942381b228)
+![WhatsApp Image 2023-12-20 at 8 00 25 AM](https://github.com/Aaron-0111/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149347631/affa587b-2edd-4565-bfeb-82eb4123e5b1)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![WhatsApp Image 2023-12-20 at 7 55 23 AM](https://github.com/Aaron-0111/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149347631/49c87728-7fc9-4949-b77d-1097228879f5)
+![WhatsApp Image 2023-12-20 at 7 55 23 AM (1)](https://github.com/Aaron-0111/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149347631/326e3955-0e18-4df1-93b6-8e185d6afa32)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![WhatsApp Image 2023-12-20 at 7 55 23 AM (2)](https://github.com/Aaron-0111/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149347631/2b1ea571-2108-4f62-a5c9-1e1e806bc2d0)
+![WhatsApp Image 2023-12-20 at 7 55 24 AM](https://github.com/Aaron-0111/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149347631/ffd6a163-2845-44ae-adc6-8c19a5437895)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Aaron Rajesh R
+### Register Number:23008897
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
